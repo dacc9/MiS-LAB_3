@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "611597196765",
+    "firebase_url": "https://mis-lab3-f7906-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "mis-lab3-f7906",
+    "storage_bucket": "mis-lab3-f7906.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:611597196765:android:20bc2637f6010ea6f32a34",
+        "android_client_info": {
+          "package_name": "com.android.application"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiquUtj-1rdLm3XeSsA64xKVv-CUFtj1c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:611597196765:android:d856e0a35c841d2cf32a34",
+        "android_client_info": {
+          "package_name": "com.example.lab_2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiquUtj-1rdLm3XeSsA64xKVv-CUFtj1c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
